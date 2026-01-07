@@ -1,0 +1,4 @@
+export const TOKENS = {
+  USER_REPOSITORY: Symbol('USER_REPOSITORY'),
+  TOKEN_SERVICE: Symbol('TOKEN_SERVICE')
+};
